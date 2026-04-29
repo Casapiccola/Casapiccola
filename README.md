@@ -1,11 +1,7 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#24041f&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=#24041f"  />
-</div>
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Casapiccola&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Casapiccola&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
@@ -36,11 +32,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Casapiccola/Casapiccola/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Casapiccola/Casapiccola/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=#24041f"  />
-</div>
 
 ###
