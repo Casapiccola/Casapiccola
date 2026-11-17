@@ -46,7 +46,7 @@ Atuo no **desenvolvimento e na evolução do site da Soma Soluções**, empresa 
 - **SEO técnico:** otimizações de estrutura de conteúdo, metadados, URLs canônicas, indexabilidade e acompanhamento pelo Google Search Console.
 - **Integrações:** evolução das experiências com simuladores, formulários e fluxos de captação de leads.
 
-**Projetos online:** [Site institucional da Soma](https://www.somasoluciona.com.br/) · [Landing page de refinanciamento de carro](https://www.somasoluciona.com.br/somacar/refinanciamento-de-carro)
+**Projetos online:** [Site institucional da Soma](https://www.somasoluciona.com.br/) · [Landing page de empréstimo com garantia de veículo](https://www.somasoluciona.com.br/somacar/emprestimo-garantia-veiculo)
 
 > Este é um **case profissional de um projeto da empresa**, apresentado apenas por meio de páginas públicas. O código-fonte e as integrações internas não são disponibilizados aqui.
 
