@@ -3,13 +3,14 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor de Software · Backend &amp; Automação</strong><br />
+  <strong>Desenvolvedor de Software · Backend, Automações &amp; Web</strong><br />
   Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)
 </p>
 
 <p align="center">
   <a href="#sobre-mim">Sobre</a> &nbsp;·&nbsp;
   <a href="#áreas-de-atuação">Atuação</a> &nbsp;·&nbsp;
+  <a href="#case-profissional">Case profissional</a> &nbsp;·&nbsp;
   <a href="#tecnologias">Tecnologias</a> &nbsp;·&nbsp;
   <a href="#projetos-públicos">Projetos</a>
 </p>
@@ -18,7 +19,7 @@
 
 ### Sobre mim
 
-Sou desenvolvedor de software com foco em **backend, automação de processos e integração entre sistemas**. Trabalho com APIs, bancos de dados, fluxos automatizados e ferramentas que conectam aplicações a processos reais de negócio.
+Sou desenvolvedor de software com foco em **backend, automação de processos e integração entre sistemas**. Minha atuação também inclui **desenvolvimento web e SEO técnico**, conectando APIs, bancos de dados, interfaces e canais digitais a necessidades reais de negócio.
 
 Gosto de entender o problema de ponta a ponta: desde a regra de negócio e o fluxo de dados até a implementação, os testes e a operação. Paralelamente à experiência prática, sigo aprofundando minha formação em **Análise e Desenvolvimento de Sistemas**.
 
@@ -30,6 +31,24 @@ Gosto de entender o problema de ponta a ponta: desde a regra de negócio e o flu
 | **Automação** | Fluxos com n8n, scripts Python, Selenium, webhooks e processamento de dados. |
 | **Dados & infraestrutura** | PostgreSQL, Redis, Docker, serviços em nuvem e observabilidade operacional. |
 | **Aplicações integradas** | Conexão entre CRM, formulários, painéis e canais de atendimento. |
+| **Desenvolvimento web & SEO** | Sites, landing pages, experiência de navegação, indexação e otimizações técnicas para mecanismos de busca. |
+
+### Case profissional
+
+#### Soma Soluções — site institucional, landing pages e SEO
+
+Atuo no **desenvolvimento e na evolução do site da Soma Soluções**, empresa do setor financeiro, com trabalho que une implementação web, integrações e visibilidade orgânica.
+
+**Minhas frentes de atuação no projeto:**
+
+- **Desenvolvimento web:** construção e manutenção do site institucional e de páginas de produtos, utilizando React, TypeScript, Vite e Tailwind CSS.
+- **Landing pages:** implementação de páginas para jornadas de produtos financeiros, como o SomaCar, com foco em clareza, responsividade e experiência de navegação.
+- **SEO técnico:** otimizações de estrutura de conteúdo, metadados, URLs canônicas, indexabilidade e acompanhamento pelo Google Search Console.
+- **Integrações:** evolução das experiências com simuladores, formulários e fluxos de captação de leads.
+
+**Projetos online:** [Site institucional da Soma](https://www.somasoluciona.com.br/) · [Landing page de refinanciamento de carro](https://www.somasoluciona.com.br/somacar/refinanciamento-de-carro)
+
+> Este é um **case profissional de um projeto da empresa**, apresentado apenas por meio de páginas públicas. O código-fonte e as integrações internas não são disponibilizados aqui.
 
 ### Tecnologias
 
