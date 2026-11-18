@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor de Software · Backend, Automações &amp; Web</strong><br />
+  <strong>Desenvolvedor Full Stack</strong><br />
   Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)
 </p>
 
@@ -19,7 +19,7 @@
 
 ### Sobre mim
 
-Sou desenvolvedor de software com foco em **backend, automação de processos e integração entre sistemas**. Minha atuação também inclui **desenvolvimento web e SEO técnico**, conectando APIs, bancos de dados, interfaces e canais digitais a necessidades reais de negócio.
+Sou **desenvolvedor Full Stack**, com experiência em construção de aplicações web, desenvolvimento de APIs e integração entre sistemas. Trabalho da interface ao backend, conectando tecnologia a necessidades reais de negócio.
 
 Gosto de entender o problema de ponta a ponta: desde a regra de negócio e o fluxo de dados até a implementação, os testes e a operação. Paralelamente à experiência prática, sigo aprofundando minha formação em **Análise e Desenvolvimento de Sistemas**.
 
