@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Erik Casapiccola — desenvolvimento backend, automação e integrações" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Banner de Erik Casapiccola — Desenvolvedor Full Stack" width="100%" />
 </p>
 
 <p align="center">
